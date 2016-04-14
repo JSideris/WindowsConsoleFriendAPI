@@ -9,8 +9,9 @@ namespace ConsoleFriend
 {
 	/// <summary>
 	/// Copyright of Joshua Sideris 2014.
+	/// josh.sideris@gmail.com
 	/// https://github.com/JSideris/WindowsConsoleFriendAPI
-	/// Code is free to use for anything, but please include this copyright notice.
+	/// Code is free to use for non-commercial projects, but please include this copyright notice.
 	/// </summary>
 	public static class Cli
 	{
